@@ -1,0 +1,252 @@
+﻿Region,Country,ISO,Median_Road_Width_m
+Northern Africa,Algeria,DZA,4
+Northern Africa,Egypt,EGY,4
+Northern Africa,Libya,LBY,4
+Northern Africa,Morocco,MAR,4
+Northern Africa,Sudan,SDN,4
+Northern Africa,Tunisia,TUN,4
+Northern Africa,Western Sahara,ESH,4
+Eastern Africa,British Indian Ocean Territory,IOT,2.5
+Eastern Africa,Burundi,BDI,2.5
+Eastern Africa,comoros,COM,2.5
+Eastern Africa,Djibouti,DJI,2.5
+Eastern Africa,Eritrea,ERI,2.5
+Eastern Africa,Ethiopia,ETH,2.5
+Eastern Africa,French Southern Territories,ATF,2.5
+Eastern Africa,Kenya,KEN,2.5
+Eastern Africa,Madagascar,MDG,2.5
+Eastern Africa,Malawi,MWI,2.5
+Eastern Africa,Mauritius,MUS,2.5
+Eastern Africa,Mayotte,MYT,2.5
+Eastern Africa,Mozambique,MOZ,2.5
+Eastern Africa,Reunion,REU,2.5
+Eastern Africa,Rwanda,RWA,2.5
+Eastern Africa,Seychelles,SYC,2.5
+Eastern Africa,Somalia,SOM,2.5
+Eastern Africa,South Sudan,SSD,2.5
+Eastern Africa,Uganda,UGA,2.5
+Eastern Africa,Untited Republic of Tanzania,TZA,2.5
+Eastern Africa,Zambia,ZMB,2.5
+Eastern Africa,Zimbabwe,ZWE,2.5
+Middle Africa,Anglola,AGO,8
+Middle Africa,Cameroon,CMR,8
+Middle Africa,Central African Republic,CAF,8
+Middle Africa,Chad,TCD,8
+Middle Africa,Congo,COG,8
+Middle Africa,Democratic Republic of the Congo,COD,8
+Middle Africa,Equatorial Guinea,GNQ,8
+Middle Africa,Gabon,GAB,8
+Middle Africa,Sao Tome and Principe,STP,8
+Southern Africa,Botswana,BWA,5.6
+Southern Africa,Eswatini,SWZ,5.6
+Southern Africa,Lesotho,LSO,5.6
+Southern Africa,Namibia,NAM,5.6
+Southern Africa,South Africa,ZAF,5.6
+Western Africa,Benin,BEN,3.5
+Western Africa,Burkina Faso,BFA,3.5
+Western Africa,Cabo Verde,CPV,3.5
+Western Africa,Cote dIvoire,CIV,3.5
+Western Africa,Gambia,GMB,3.5
+Western Africa,Ghana,GHA,3.5
+Western Africa,Guinea,GIN,3.5
+Western Africa,Guinea-Bissau,GNB,3.5
+Western Africa,Liberia,LBR,3.5
+Western Africa,Mali,MLI,3.5
+Western Africa,Mauritania,MRT,3.5
+Western Africa,Niger,NER,3.5
+Western Africa,Nigeria,NGA,3.5
+Western Africa,Saint Helena,SHN,3.5
+Western Africa,Senegal,SEN,3.5
+Western Africa,Sierra Leone,SLE,3.5
+Western Africa,Togo,TGO,3.5
+Latin America and the Caribbean,Anguilla,AIA,4
+Latin America and the Caribbean,Antigua and Barbuda,ATG,4
+Latin America and the Caribbean,Aruba,ABW,4
+Latin America and the Caribbean,Bahamas,BHS,4
+Latin America and the Caribbean,Barbados,BRB,4
+Latin America and the Caribbean,"Bonaire, Sint Eustatius and Saba",BES,4
+Latin America and the Caribbean,British Virigin Islands,VGB,4
+Latin America and the Caribbean,Cayman Islands,CYM,4
+Latin America and the Caribbean,Cuba,CUB,4
+Latin America and the Caribbean,Curacao,CUW,4
+Latin America and the Caribbean,Dominica,DMA,4
+Latin America and the Caribbean,Dominican Republic,DOM,4
+Latin America and the Caribbean,Grenada,GRD,4
+Latin America and the Caribbean,Guadeloupe,GLP,4
+Latin America and the Caribbean,Haiti,HTI,4
+Latin America and the Caribbean,Jamaica,JAM,4
+Latin America and the Caribbean,Martinique,MTQ,4
+Latin America and the Caribbean,Montserrat,MSR,4
+Latin America and the Caribbean,Puerto Rico,PRI,4
+Latin America and the Caribbean,Saint Barthelemy,BLM,4
+Latin America and the Caribbean,Saint Kitts and Nevis,KNA,4
+Latin America and the Caribbean,Saint Lucia,LCA,4
+Latin America and the Caribbean,Saint Martin,MAF,4
+Latin America and the Caribbean,Saint Vincent and the Grenadines,VCT,4
+Latin America and the Caribbean,Sint Maarten,SXM,4
+Latin America and the Caribbean,Trinidad and Tobago,TTO,4
+Latin America and the Caribbean,Turks and Caicos Islands,TCA,4
+Latin America and the Caribbean,United States Virigin Islands,VIR,4
+Latin America and the Caribbean,Belize,BLZ,4
+Latin America and the Caribbean,Costa Rica,CRI,4
+Latin America and the Caribbean,El Salvador,SLV,4
+Latin America and the Caribbean,Guatemala,GTM,4
+Latin America and the Caribbean,Honduras,HND,4
+Latin America and the Caribbean,Mexico,MEX,4
+Latin America and the Caribbean,Nicaragua,NIC,4
+Latin America and the Caribbean,Panama,PAN,4
+Latin America and the Caribbean,Argentina,ARG,4
+Latin America and the Caribbean,Bolivia,BOL,4
+Latin America and the Caribbean,Bouvet Island,BVT,4
+Latin America and the Caribbean,Brazil,BRA,4
+Latin America and the Caribbean,Chile,CHL,4
+Latin America and the Caribbean,Colombia,COL,4
+Latin America and the Caribbean,Ecuador,ECU,4
+Latin America and the Caribbean,Falkland Islands (Malvinas),FLK,4
+Latin America and the Caribbean,French Guiana,GUF,4
+Latin America and the Caribbean,Guyana,GUY,4
+Latin America and the Caribbean,Paraguay,PRY,4
+Latin America and the Caribbean,Peru,PER,4
+Latin America and the Caribbean,SGSSI,SGS,4
+Latin America and the Caribbean,Suriname,SUR,4
+Latin America and the Caribbean,Uruguay,URY,4
+Latin America and the Caribbean,Venezuela,VEN,4
+Northern America,Bermuda,BMU,7.6
+Northern America,Canada,CAN,7.6
+Northern America,Greenland,GRL,7.6
+Northern America,SPM,SPM,7.6
+Northern America,USA,USA,7.6
+Northern America,Antarctica,ATA,7.6
+Central Asia,Kazakhstan,KAZ,3
+Central Asia,Kyrgyzstan,KGZ,3
+Central Asia,Tajikistan,TJK,3
+Central Asia,Turkmenistan,TKM,3
+Central Asia,Uzbekistan,UZB,3
+Eastern Asia,China,CHN,3
+Eastern Asia,Taiwan,TWN,3
+Eastern Asia,Hong Kong,HKG,3
+Eastern Asia,Macao,MAC,3
+Eastern Asia,North Korea,PRK,3
+Eastern Asia,Japan,JPN,3
+Eastern Asia,Mongolia,MNG,3
+Eastern Asia,South Korea,KOR,3
+South-eastern Asia,Brunei Darussalam,BRN,3
+South-eastern Asia,Cambodia,KHM,3
+South-eastern Asia,Indonesia,IDN,3
+South-eastern Asia,Lao,LAO,3
+South-eastern Asia,Malaysia,MYS,3
+South-eastern Asia,Myanmar,MMR,3
+South-eastern Asia,Philippines,PHL,3
+South-eastern Asia,Singapore,SGP,3
+South-eastern Asia,Thailand,THA,3
+South-eastern Asia,Timor-Leste,TLS,3
+South-eastern Asia,Viet Nam,VNM,3
+Southern Asia,Afghanistan,AFG,6
+Southern Asia,Bangladesh,BGD,6
+Southern Asia,Bhutan,BTN,6
+Southern Asia,India,IND,6
+Southern Asia,Iran,IRN,6
+Southern Asia,Maldives,MDV,6
+Southern Asia,Nepal,NPL,6
+Southern Asia,Pakistan,PAK,6
+Southern Asia,Sri Lanka,LKA,6
+Western Asia,Armenia,ARM,6
+Western Asia,Azerbaijan,AZE,6
+Western Asia,Bahrain,BHR,6
+Western Asia,Northern Cyprus,XNC,6
+Western Asia,Cyprus,CYP,6
+Western Asia,Georgia,GEO,6
+Western Asia,Iraq,IRQ,6
+Western Asia,Israel,ISR,6
+Western Asia,Jordan,JOR,6
+Western Asia,Kuwait,KWT,6
+Western Asia,Lebanon,LBN,6
+Western Asia,Oman,OMN,6
+Western Asia,Qatar,QAT,6
+Western Asia,Saudi Arabia,SAU,6
+Western Asia,State of Palestine,PSE,6
+Western Asia,Syrian Arab Republic,SYR,6
+Western Asia,Turkey,TUR,6
+Western Asia,United Arab Emirates,ARE,6
+Western Asia,Yemen,YEM,6
+Eastern Europe,Belarus,BLR,2
+Eastern Europe,Bulgaria ,BGR,2
+Eastern Europe,Czechia,CZE,2
+Eastern Europe,Hungry,HUN,2
+Eastern Europe,Poland,POL,2
+Eastern Europe,Republic of Moldova,MDA,2
+Eastern Europe,Romania,ROU,2
+Eastern Europe,Russia,RUS,2
+Eastern Europe,Slovakia,SVK,2
+Eastern Europe,Ukraine,UKR,2
+Northern Europe,Aland Islands,ALA,2
+Northern Europe,Guernsey,GGY,2
+Northern Europe,Jersey,JEY,2
+Northern Europe,Denmark,DNK,2
+Northern Europe,Estonia,EST,2
+Northern Europe,Faroe Islands,FRO,2
+Northern Europe,Finland,FIN,2
+Northern Europe,Iceland,ISL,2
+Northern Europe,Ireland,IRL,2
+Northern Europe,Isle of Man,IMN,2
+Northern Europe,Latvia,LVA,2
+Northern Europe,Lithuania,LTU,2
+Northern Europe,Norway,NOR,2
+Northern Europe,Svalbard and Jan Mayen Islands,SJM,2
+Northern Europe,Sweden,SWE,2
+Northern Europe,UK,GBR,2
+Southern Europe,Kosovo,XKO,3
+Southern Europe,Albania,ALB,3
+Southern Europe,Andorra,AND,3
+Southern Europe,Bosnia and Herzegovina,BIH,3
+Southern Europe,Croatia,HRV,3
+Southern Europe,Gibraltar,GIB,3
+Southern Europe,Greece,GRC,3
+Southern Europe,Holy See,VAT,3
+Southern Europe,Italy,ITA,3
+Southern Europe,Malta,MLT,3
+Southern Europe,Montenegro,MNE,3
+Southern Europe,North Macedonia,MKD,3
+Southern Europe,Portugal,PRT,3
+Southern Europe,San Marino,SMR,3
+Southern Europe,Serbia,SRB,3
+Southern Europe,Slovenia,SVN,3
+Southern Europe,Spain,ESP,3
+Western Europe,Austria,AUT,2.2
+Western Europe,Belgium,BEL,2.2
+Western Europe,France,FRA,2.2
+Western Europe,Germany,DEU,2.2
+Western Europe,Liechtenstein,LIE,2.2
+Western Europe,Luxembourg,LUX,2.2
+Western Europe,Monaco,MCO,2.2
+Western Europe,Netherlands,NLD,2.2
+Western Europe,Switzerland,CHE,2.2
+Oceania,Australia,AUS,2
+Oceania,Christmas Island,CXR,2
+Oceania,Cocos Islands,CCK,2
+Oceania,Heard Island and McDonald Islands,HMD,2
+Oceania,New Zealand,NZL,2
+Oceania,Norfolk Island,NFK,2
+Oceania,Fiji,FJI,2
+Oceania,New Caledonia,NCL,2
+Oceania,Papua New Guinea,PNG,2
+Oceania,Solomon Islands,SLB,2
+Oceania,Vanuatu,VUT,2
+Oceania,Guam,GUM,2
+Oceania,Kiribati,KIR,2
+Oceania,Marshall Islands,MHL,2
+Oceania,Micronesia,FSM,2
+Oceania,Nauru,NRU,2
+Oceania,Northern Mairiana Islands,MNP,2
+Oceania,Palau,PLW,2
+Oceania,United States Minor Outlying Islands,UMI,2
+Oceania,American Samoa,ASM,2
+Oceania,Cook Islands,COK,2
+Oceania,French Polynesia,PYF,2
+Oceania,Niue,NIU,2
+Oceania,Pitcairn,PCN,2
+Oceania,Samoa,WSM,2
+Oceania,Tokelau,TKL,2
+Oceania,Tonga,WON,2
+Oceania,Tuvalu,TUV,2
+Oceania,Wallis and Futuna Islands,WLF,2
