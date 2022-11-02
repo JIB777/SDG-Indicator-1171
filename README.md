@@ -1,2 +1,7 @@
 # SDG-Indicator-1171
-Computing SDG Indicator 11.7.1 using global open data
+
+This repository contains the scripts that the Columbia Climate School [Center for International Earth Science Information Network (CIESIN)](http://www.ciesin.org) used to compute United Nations (UN) Sustainable Development Goal (SDG) Indicator 11.7.1 with global open data. [SDG 11](https://sdgs.un.org/goals/goal11) aims to “make cities and human settlements inclusive, safe, resilient and sustainable.” Prevalence of and access to public space is critical for achieving SDG 11. Aside from [environmental benefits, public space can also help improve public health, bolster community, and encourage economic exchange](https://unhabitat.org/programme/global-public-space-programme). As one measure of progress, the UN has established [SDG Indicator 11.7.1](https://unstats.un.org/sdgs/metadata/?Text=&Goal=11&Target=): “Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities.” 
+
+Using open data, CIESIN computed SDG Indicator 11.7.1 results for 8,873 urban centers across 180 countries. Urban center extents and identifying names from the European Commission's Joint Research Center’s [Urban Center Database (UCDB)](https://ghsl.jrc.ec.europa.eu/ucdb2018Overview.php) were used for the production of this data set. 
+
+This work was completed in support of the [Group on Earth Observations (GEO)](https://earthobservations.org/index.php) [Human Planet Initiative (HPI)](https://ghsl.jrc.ec.europa.eu/HPI.php). CIESIN plans to update the SDG Indicator 11.7.1: Urban Public Space - Availability and Access data set annually to help countries track their progress towards SDG 11 and to facilitate international comparisons. 
