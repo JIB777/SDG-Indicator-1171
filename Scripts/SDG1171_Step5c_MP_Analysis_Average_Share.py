@@ -1,9 +1,10 @@
+#James Gibson
 #06/08/2022
 
 #SDG Indicator 11.7.1
 #"Average share of the built-up area of cities that is open space for public use for all,
 #by sex, age and persons with disabilities"
-#Step 5b: Analysis- Union
+#Step 5c: Analysis- Calculate Percent Public Space (%)
 
 import arcpy, sys, os
 from collections import defaultdict
