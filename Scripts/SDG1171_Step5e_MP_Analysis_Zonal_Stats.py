@@ -1,9 +1,10 @@
+#James Gibson
 #06/08/2022
 
-#SDG 11.7.1
+#SDG Indicator 11.7.1
 #"Average share of the built-up area of cities that is open space for public use for all,
 #by sex, age and persons with disabilities"
-#Step 4: Analysis
+#Step 5e: Analysis- Zonal Stats
 
 import arcpy, sys, os
 from collections import defaultdict
