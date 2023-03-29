@@ -51,8 +51,8 @@ def process(iso):
             #arcpy.RepairGeometry_management(dissolved_roads)
             arcpy.PairwiseClip_analysis(dissolved_roads,out_ucdb,ucdb_roads_clip)
             #Now we can get road area
-            arcpy.AddField_management(ucdb_roads_clip,'Area_squarekm_roads','DOUBLE')
-            arcpy.CalculateField_management(ucdb_roads_clip,'Area_squarekm_roads',"!shape.geodesicArea@squarekilometers!",'PYTHON')
+            #arcpy.AddField_management(ucdb_roads_clip,'Area_squarekm_roads','DOUBLE')
+            #arcpy.CalculateField_management(ucdb_roads_clip,'Area_squarekm_roads',"!shape.geodesicArea@squarekilometers!",'PYTHON')
             message = 'Done: ' + iso
         except Exception as e:
             message = 'Failed: ' + iso + ' ' + str(e)
