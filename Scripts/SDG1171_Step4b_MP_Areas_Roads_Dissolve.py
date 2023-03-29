@@ -38,10 +38,6 @@ def process(iso):
             df = pd.read_csv(RegionalRoadWidths)
             ## Roads ##
             #Buffer, Dissolve, Clip
-            #Look up average road width values in table
-            query = df.loc[df['ISO'] == iso]
-            median_width = query['Median_Road_Width_m'].values[0]
-            median_width_km = median_width/1000
             #buffer
             buffered_roads = '%s_roads_buffered' % iso
             #dissolve
